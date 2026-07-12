@@ -28,17 +28,42 @@
 
 - 🚀 **Software Development Engineer II** at **Amazon Web Services (AWS)**, focusing on search, storage, and analytics systems within the **OpenSearch** ecosystem.
 - 🔐 **Maintainer** of **OpenSearch Storage Encryption**, ensuring security at rest for high-throughput search infrastructure.
-- 🏢 Former **Software Engineer** at **Samsung**, where I engineered large-scale software systems and product features.
+- 🏢 Former **Software Engineer** at **Samsung**, engineering large-scale software systems and product features.
 - 🎓 Alumnus of the **National Institute of Technology (NIT), Patna**.
 - 💡 Deeply interested in distributed systems design, data security, cloud infrastructure, and search technologies.
 
 ---
 
-## 🎯 Core Focus Areas
-- 🌐 Distributed Systems & Search Infrastructure
-- ☁️ Cloud Computing & Backend Engineering
-- 🔒 Data Security & System Design
-- 🛠️ Developer Productivity Tools
+## ✍️ Recent Blog Posts & Interactive Lessons
+
+I publish interactive educational lessons combining **Applied Mathematics**, **Physics**, and **Systems Engineering** with live browser-based p5.js sandboxes. Read them on my [Blog](https://shubhamkrshandilya.github.io/blog/):
+
+*   📐 **Applied Mathematics Series**:
+    *   [Game Theory: Solving Twelve Bead (Baro Guti)](https://shubhamkrshandilya.github.io/blog/) — *Graph theory representations & Minimax tree search solver*
+    *   [Creative Coding: The Math of Fractals](https://shubhamkrshandilya.github.io/blog/) — *Perlin noise wind deflection forces & complex plane convergence*
+    *   [Horology: The Physics of Clocks](https://shubhamkrshandilya.github.io/blog/) — *Polar coordinate translations & meshed gear tooth ratios*
+    *   [Electronics: 7-Segment Display Logic](https://shubhamkrshandilya.github.io/blog/) — *Bitmask binary toggling & procedural hexagon beveling*
+    *   [Fourier Wave Synthesis](https://shubhamkrshandilya.github.io/blog/) & [Linear Transformations](https://shubhamkrshandilya.github.io/blog/) & [Limits & Derivatives](https://shubhamkrshandilya.github.io/blog/)
+*   🚀 **Physics & Mechanics Series**:
+    *   [Connected Bodies & Space Elevator Pulleys](https://shubhamkrshandilya.github.io/blog/) — *Atwood's machine hoisting & Tension vector Free-Body Diagrams*
+    *   [Inclined Planes, Repose & Friction Dynamics](https://shubhamkrshandilya.github.io/blog/) — *Mass sliding coefficient slips & kinetic resistance arrows*
+    *   [Martian Cargo Launcher](https://shubhamkrshandilya.github.io/blog/) & [Rover Braking 1D Kinematics](https://shubhamkrshandilya.github.io/blog/)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎲 [Twelve Bead (Baro Guti)](https://github.com/shubhamkrshandilya/twelve-bead)
+A browser-based strategic board game built with p5.js. Includes a coordinate graph model, custom linear vector move-validation, and an intelligent **Minimax AI Opponent** using alpha-beta pruning.
+
+### 🕰️ [Mechanical & Celestial Chronograph](https://github.com/shubhamkrshandilya/p5js-clock)
+An interactive browser chronograph simulating interlocking gear mesh ratios, custom epoch speed scaling (accelerated time), and a functional stopwatch sub-dial. Includes Steampunk, Astronomical, and Neon Onyx themes.
+
+### 📟 [Cyberpunk LED Chronometer](https://github.com/shubhamkrshandilya/clock-seven-segment)
+A digital clock simulator rendering procedural beveled hexagons and custom neon glow scatter blurs to replicate real physical hardware 7-segment screens.
+
+### 🩺 Repo Doctor
+An AI-powered repository analysis platform that focuses on enhancing repository health, identifying code quality issues, and boosting developer productivity.
 
 ---
 
@@ -78,36 +103,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-#### **Amazon Web Services (AWS)** | *Software Development Engineer II*
-> Working on search and analytics technologies through OpenSearch.
-
-#### **Samsung** | *Software Engineer*
-> Worked on large-scale software systems and product engineering.
-
----
-
-## 🎓 Education
-
-#### **National Institute of Technology (NIT) Patna**
-> Bachelor of Technology (B.Tech)
-
----
-
-## 🌟 Featured Projects
-
-### 🌐 [Portfolio Website](https://shubhamkrshandilya.github.io)
-A premium personal website showcasing professional experience, patent portfolio, key projects, and achievements.
-
-### 🩺 Repo Doctor
-An AI-powered repository analysis platform that focuses on enhancing repository health, identifying code quality issues, and boosting developer productivity.
-
-### 📦 Open Source Contributions
-Active maintenance and contributions across various repositories in the OpenSearch ecosystem, specifically focusing on storage encryption and performance characteristics.
-
----
-
 ## 🔬 Patents & Innovation
 
 I am actively involved in patent-related research and innovation in my domains. 
@@ -116,16 +111,21 @@ You can view detailed descriptions of my patent filings and innovations on my we
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Metrics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
+      <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=shubhamkrshandilya&show_icons=true&hide_border=true&title_color=00c7b7&icon_color=00c7b7&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
       </td>
-      <td>
+      <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkrshandilya&layout=compact&hide_border=true&title_color=00c7b7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkrshandilya&theme=tokyonight&hide_border=true&background=0d1117&ring=00c7b7&fire=00c7b7" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
